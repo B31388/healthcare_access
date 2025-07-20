@@ -7,3 +7,6 @@ panel>=1.0.0
 pycountry>=22.3.5
 folium
 geopandas
+bokeh==3.7.3
+pandas==2.3.1
+tabulate
